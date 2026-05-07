@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Eskultural
+N;CHARSET=UTF-8:;Eskultural;;;
+ORG;CHARSET=UTF-8:Eskultural - Instituto de Beleza
+TITLE;CHARSET=UTF-8:Salão de Cabeleireiros e Instituto de Beleza
+TEL;TYPE=CELL,VOICE:+351918780879
+EMAIL;TYPE=INTERNET,WORK:contacto@eskultural.pt
+URL;TYPE=WORK:https://eskultural.pt
+ADR;TYPE=WORK,POSTAL,PARCEL;CHARSET=UTF-8:;;Alameda Dom Afonso Henriques 66 1º Dto;Lisboa;;1900-183;Portugal
+NOTE;CHARSET=UTF-8:Especialistas em Balayage, Madeixas, Alisamento Liss Forever e Estética Avançada na Alameda, Lisboa.
+REV:20240522T100000Z
+END:VCARD
